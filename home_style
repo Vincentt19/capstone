@@ -1,0 +1,58 @@
+body {
+  background-color: powderblue;
+  font-family: verdana;
+  font-size: 105%;
+}
+h {
+  color: black;
+  font-family: verdana;
+  font-size: 107%;
+ 
+}
+h3 {
+  color: black;
+  font-family: verdana;
+  font-size: 150%;
+ 
+}
+p {
+  color: black;
+  font-family: verdana;
+  font-size: 105%;
+}
+li {
+   color: black;
+   font-family: verdana;
+   font-size: 105%;
+}
+b1 {
+   color: black;
+   font-family: verdana;
+   font-size: 105%;
+}
+a  {
+   text-decoration: none;
+}
+span {
+    color: black;
+   font-family: verdana;
+   font-size: 105%;
+}
+footer {
+       text-align: center;
+       color: black;
+       font-family: verdana;
+       font-size: 85%;
+}
+a:link {
+color: #1E90FF;
+}
+
+a:visited {
+color: #1E90FF;
+}
+
+a:hover {
+color: #1E90FF;
+}
+   
